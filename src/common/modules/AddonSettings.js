@@ -44,7 +44,7 @@ export function getDefaultValue(option) {
 }
 
 /**
- * Makes sure, that the synced o0ptions are available.
+ * Makes sure, that the synced options are available.
  *
  * @private
  * @function
